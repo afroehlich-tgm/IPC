@@ -266,6 +266,7 @@ release:
 Beim Verlassen wird Z¨ahler um 1 erhöht.
 Ein wartendes Auto kann nun das Parkhaus betreten.
 
+![alt text](https://github.com/afroehlich-tgm/IPC/blob/master/IPC.PNG)
 
 
 
