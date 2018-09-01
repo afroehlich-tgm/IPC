@@ -157,7 +157,7 @@ Aber Achtung: Deswegen muss manchmal trozdem der Zugriff synchronisiert werden (
 ’d’ steht fur double und ¨ ’i’ steht fur integer (typecodes) 
 Es können auch andere c-Datentypen geteilt werden (über multiprocessing.sharedctypes)
 
-#Pipes
+# Pipes
 Pipes basieren auf dem Prinzip von Datenstr¨omen (Streams), welche wir schon kennengelernt haben
 Streams sind ” Kommunikationskanäle“ und werden verwendet, um Eingabe- und Ausgabekanäle abzubilden
 Pipes stammen aus der UNIX-Welt
